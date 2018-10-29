@@ -1,0 +1,62 @@
+{
+  "Category": {
+    "01": {
+      "Name": "FINGER FOODS",
+      "Image": "http://medifoods.my/wp-content/uploads/2015/03/cover-menu-fingerfoods2.jpg"
+    },
+    "02": {
+      "Name": "WESTERN SOUP",
+      "Image": "http://medifoods.my/wp-content/uploads/2015/03/cover-menu-westernsoup1.jpg"
+    },
+    "03": {
+      "Name": "DELIGHT",
+      "Image": "http://medifoods.my/wp-content/uploads/2015/03/cover-menu-delights.jpg"
+    },
+    "04": {
+      "Name": "SNACK",
+      "Image": "http://medifoods.my/wp-content/uploads/2015/03/cover-menu-snacks.jpg"
+    },
+    "05": {
+      "Name": "SANDWICH",
+      "Image": "http://medifoods.my/wp-content/uploads/2015/03/cover-menu-sandwich.jpg"
+    },
+    "06": {
+      "Name": "PIZZA",
+      "Image": "http://medifoods.my/wp-content/uploads/2015/03/cover-menu-pizza.jpg"
+    },
+    "07": {
+      "Name": "EASTERN SOUP",
+      "Image": "http://medifoods.my/wp-content/uploads/2015/03/cover-menu-easternsoup.jpg"
+    },
+    "08": {
+      "Name": "PASTA",
+      "Image": "http://medifoods.my/wp-content/uploads/2015/03/cover-menu-pasta1.jpg"
+    },
+    "09": {
+      "Name": "CHICKEN",
+      "Image": "http://medifoods.my/wp-content/uploads/2015/03/cover-menu-chicken.jpg"
+    },
+	"10": {
+      "Name": "VEGETARIAN",
+      "Image": "http://medifoods.my/wp-content/uploads/2015/03/cover-menu-vegetarian.jpg"
+    },
+    "11": {
+      "Name": "FISH",
+      "Image": "http://medifoods.my/wp-content/uploads/2015/03/cover-menu-fish.jpg"
+    }
+  },
+  "User" : {
+    "082134700595" : {
+      "Name" : "NurRidho2",
+      "Password" : "1234"
+    },
+    "085682350598" : {
+      "name" : "Alde Sena",
+      "password" : "1234"
+    },
+    "085770954141" : {
+      "Name" : "NurRidho",
+      "Password" : "1234"
+    }
+  }
+}
